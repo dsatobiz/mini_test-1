@@ -1,0 +1,11 @@
+# Ignore files with tilde
+*~
+
+# Ignore swap files
+*.swp
+
+# Ignore files with hash
+\#*\#
+
+# Ignore DS_Store file
+.DS_Store
